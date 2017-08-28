@@ -1,0 +1,12 @@
+# exe-virus-remover
+
+Removes .exe virus files.
+Many computers have .exe virus files which are created in every folders with name as <folder-name>.exe
+
+.exe files with <folder-name>.exe will be removed from all subfolders and their subfolders too.
+Just run program and paste parent folder path.
+Program will delete all .exe virus files very quickly as compared to famous antivirus softwares!
+
+>>>WARNING: RUN THIS PROGRAM ONLY IF YOU HAVE SUCH VIRUS IN YOUR COMPUTER!!!
+If you do not have such virus in your computer, important setups may get deleted.
+If you have such virus in your computer, your important setups are already corrupted, so you can run this program.
